@@ -1,2 +1,2 @@
 # myProject
-This is an enterprise station
+Hello!
